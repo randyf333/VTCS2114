@@ -6,12 +6,7 @@ import java.util.NoSuchElementException;
 /**
  * This provides implementation for some of the LList methods.
  *
- * @author Mark Wiggans (mmw125)
- * @version 3/29/15
- * @author Eric Williamson
- * @version 10/30/15
- * @author maellis1
- * @version 11/1/15
+ * @author Randy Fu
  * @param <E>
  *            The type of object the class will store
  */
@@ -24,9 +19,6 @@ public class DLList<E>
      * after it in the list
      *
      * @param <E>
-     *            This is the type of object that this class will store
-     * @author Mark Wiggans (mmw125)
-     * @version 4/14/2015
      */
     private static class Node<E>
     {
