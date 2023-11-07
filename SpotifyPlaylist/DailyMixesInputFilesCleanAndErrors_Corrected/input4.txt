@@ -1,0 +1,25 @@
+Firestarter, 70, 20, 10, Daily Mix 3
+In My Feelings, 30, 60, 10, Daily Mix 2
+Come Together, 50, 40, 10, Daily Mix 1
+Sweet Caroline, 20, 50, 30, Daily Mix 3
+Toxicity, 60, 30, 10, None
+Don't Stop Believin', 40, 50, 10, Daily Mix 1
+Bohemian Rhapsody, 25, 70, 5, Daily Mix 2
+I'm Yours, 50, 40, 10, Daily Mix 3
+My Heart Will Go On, 30, 65, 5, Daily Mix 1
+The Sound of Silence, 10, 60, 30, Daily Mix 2
+All Star, 60, 35, 5, Daily Mix 2
+Sweet Dreams, 20, 70, 10, Daily Mix 1
+Hound Dog, 50, 40, 10, Daily Mix 3
+Eye of the Tiger, 40, 50, 10, Daily Mix 2
+Tainted Love, 30, 30, 40, Daily Mix 1
+Hello, 35, 60, 5, None
+Lose Yourself, 40, 40, 20, Daily Mix 3
+Another One Bites the Dust, 50, 45, 5, Daily Mix 1
+Mr. Brightside, 25, 65, 10, Daily Mix 2
+I Want to Hold Your Hand, 15, 70, 15, Daily Mix 3
+Smells Like Teen Spirit, 40, 50, 10, Daily Mix 1
+Back in Black, 25, 65, 10, Daily Mix 2
+Killing in the Name, 70, 20, 10, Daily Mix 3
+Just the Way You Are, 30, 60, 10, Daily Mix 1
+Livin' La Vida Loca, 45, 45, 10, None

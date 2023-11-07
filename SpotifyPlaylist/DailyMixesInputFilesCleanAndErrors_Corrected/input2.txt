@@ -1,0 +1,20 @@
+Bohemian Rhapsody, 40, 50, 10, Daily Mix 2
+Sweet Child O' Mine, 30, 60, 10, Daily Mix 1
+Livin' on a Prayer, 50, 40, 10, Daily Mix 3
+Purple Rain, 20, 70, 10, Daily Mix 2
+Billie Jean, 47, 34, 5, Daily Mix 2
+Stairway to Heaven, 32, 61, 4, Daily Mix 2
+Sweet Home Alabama, 45, 45, 10, Daily Mix 1
+I Want It That Way, 80, 12, 8, Daily Mix 1
+Dancing Queen, 62, 27, 8, Daily Mix 1
+Smells Like Teen Spirit, 13, 41, 2, Daily Mix 2
+Free Bird, 17, 62, 9, Daily Mix 2
+Take on Me, 46, 43, 11, Daily Mix 1
+Hotel California, 23, 47, 1, Daily Mix 2
+I Will Always Love You, 20, 65, 15, Daily Mix 1
+Ring of Fire, 14, 4, 82, Daily Mix 3
+Levitating, 87, 3, 10, None
+Purple Haze, 19, 24, 57
+Toxic, 67, 20, 13, Daily Mix 1
+Superstition, 40, 53, 7, Daily Mix 2
+Need You Now, 32, 16, 52, Daily Mix 3

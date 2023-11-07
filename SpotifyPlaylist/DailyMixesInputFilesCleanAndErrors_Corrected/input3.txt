@@ -1,0 +1,20 @@
+Thriller, 50, 45, 5, Daily Mix 2
+Hey Jude, 30, 60, 10, Daily Mix 1
+Billie Eilish, 60, 35, 5, Daily Mix 3
+Like a Rolling Stone, 20, 75, 5, Daily Mix 2
+Uptown Funk, 40, 50, 10, Daily Mix 2
+Rolling in the Deep, 30, 60, 10, Daily Mix 1
+Blinding Lights, 50, 40, 10, Daily Mix 3
+Hallelujah, 20, 70, 10, Daily Mix 2
+Stairway to Heaven, 50, 40, 10, Daily Mix 1
+Hotel California, 30, 60, 10, Daily Mix 2
+Sweet Home Alabama, 45, 45, 10, Daily Mix 3
+I Want It That Way, 70, 20, 10, Daily Mix 1
+Smooth, 45, 45, 10, Daily Mix 2
+I Will Always Love You, 30, 60, 10, Daily Mix 1
+Viva La Vida, 25, 5, 70, Daily Mix 3
+Royals, 80, 15, 5, None
+Livin' on a Prayer, 20, 75, 5
+Dancing Queen, 60, 35, 5, Daily Mix 1
+Wonderwall, 30, 65, 5, Daily Mix 2
+Sweet Child O' Mine, 70, 25, 5, Daily Mix 3

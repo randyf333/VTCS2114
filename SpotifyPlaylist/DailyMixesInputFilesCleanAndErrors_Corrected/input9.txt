@@ -1,0 +1,25 @@
+Happy, 95, 3, 2, Daily Mix 1
+All of Me, 80, 15, 5, Daily Mix 2
+Rude, 20, 70, 10, Daily Mix 3
+Dark Horse, 55, 40, 5, Daily Mix 1
+Rather Be, 85, 5, 10, Daily Mix 2
+Shake It Off, 60, 35, 5, Daily Mix 1
+Anaconda, 5, 90, 5, Daily Mix 3
+Am I Wrong, 50, 40, 10, Daily Mix 2
+Stay With Me, 75, 20, 5, Daily Mix 1
+Chandelier, 30, 60, 10, Daily Mix 3
+Bang Bang, 25, 65, 10, Daily Mix 2
+Counting Stars, 70, 25, 5, Daily Mix 1
+Happy Little Pill, 10, 10, 80, Daily Mix 3
+A Sky Full of Stars, 75, 20, 5, Daily Mix 1
+Fancy, 20, 75, 5, Daily Mix 3
+Latch, 70, 25, 5, Daily Mix 2
+Problem, 40, 55, 5, Daily Mix 1
+All About That Bass, 35, 60, 5, Daily Mix 2
+Maps, 65, 30, 5, Daily Mix 1
+Summer, 60, 35, 5, Daily Mix 3
+Waves, 50, 40, 10, Daily Mix 2
+Blame, 45, 50, 5, Daily Mix 1
+Prayer in C, 80, 15, 5, Daily Mix 2
+Burnin' Up, 30, 65, 5, Daily Mix 3
+Animals, 10, 10, 80, Daily Mix 1
