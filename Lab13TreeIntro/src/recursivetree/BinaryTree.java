@@ -9,8 +9,8 @@ package recursivetree;
  *            The type of data elements contained in the tree. Created by: John
  *            Lewis (lewis63) and Stephen Edwards (stedwar2) Revised
  *            (2015.04.30) by: Megan Rigsbee (mrigsbee)
- * @author <YOUR NAME> <YOUR PID>
- * @version <THE DATE>
+ * @author Randy Fu randyf333
+ * @version 11/14/2023
  */
 public class BinaryTree<T>
 {
